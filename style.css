@@ -1,0 +1,64 @@
+.twinkle-head{
+    color:black;
+    text-transform: capitalize;
+    text-decoration: underline;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    font-weight: 900;
+    /* text-align: center; */
+}
+.twinkle{
+    color:rgb(20, 20, 165);
+    font-style: italic;
+    text-transform: capitalize;
+    text-align: left;
+    font-weight: 700;
+    font-size: large;
+}
+.days{
+    font-weight: bold;
+}
+#first-head{
+    color:maroon;
+    background-color: wheat;
+}
+.India-head, .china-head, .bhutan-head, .sri-head{
+    color:darkgrey;
+}
+.other-head{
+    color:blue;
+}
+.list-class{
+    color: green;
+}
+.odd{
+    background-color: #d8e2dc;
+    color: #2a9d8f;
+}
+.even{
+    background-color: #e8e8e4;
+    color: #e07a5f;
+}
+#one{
+    font-size: 25px;
+}
+.p1,.p2,.p3,.p4,.p5,.p6{
+    color: red;
+}
+.first{
+    background-color:khaki;
+}
+.sec{
+    background-color: skyblue;
+}
+.third{
+    background-color:honeydew
+}
+.fourth{
+    background-color: thistle;
+}
+.fifth{
+    background-color: wheat;
+}
+.sixth{
+    background-color: bisque;
+}
